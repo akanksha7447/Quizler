@@ -88,7 +88,7 @@ function myFunction() {
             var ans = confirm("You are about to go to next level....But still you need to study well for this level....Do you still want to continue?");
             if(ans == true){
                 
-                document.getElementById("answers").innerHTML = "Correct answers: (1)True(2)False(3)False(4)False (5)False (6)True (7)True (8)False9)True (10)False";
+                document.getElementById("answers").innerHTML = "Correct answers: (1)c (2)c (3)b (4)a (5)b (6)a (7)a (8)a (9)d (10)d (11)d (12)c (13)b (14)b (15)b";
 
             }
             else {
