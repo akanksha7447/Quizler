@@ -90,6 +90,8 @@ function myFunction() {
                 
                 document.getElementById("answers").innerHTML = "Correct answers: (1)c (2)c (3)b (4)a (5)b (6)a (7)a (8)a (9)d (10)d (11)d (12)c (13)b (14)b (15)b";
 
+                
+
             }
             else {
                 
